@@ -1,3 +1,4 @@
 fastapi
 uvicorn
-python-multipart
+simple_lama_inpainting
+pydantic
