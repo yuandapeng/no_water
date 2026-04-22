@@ -4,7 +4,7 @@
 ## 安装
 
 ```
-pip install
+pip install -r requirements.txt
 
 ```
 
@@ -12,6 +12,6 @@ pip install
 ## 启动
 
 ```bash
-uvicorn main:app
+python scripts/run.py
 
 ```
