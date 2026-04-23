@@ -2,7 +2,7 @@ from fastapi import FastAPI
 # CORS 中间件
 from fastapi.middleware.cors import CORSMiddleware
 from .api.normal import router as normal_router
-from .api.ai import router as ai_router
+#from .api.ai import router as ai_router
 
 app = FastAPI()
 
