@@ -17,4 +17,4 @@ app.add_middleware(
 
 # 挂载两个接口（自动合并）
 app.include_router(normal_router)
-app.include_router(ai_router)
+# app.include_router(ai_router)
